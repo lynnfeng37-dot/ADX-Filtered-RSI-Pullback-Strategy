@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+dist/
+build/
+*.egg-info/
+
+# Local market data and generated artifacts
+m_ftr.CSV
+m_continuous_adj.csv
+outputs/
+
